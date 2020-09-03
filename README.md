@@ -1,7 +1,8 @@
-### Hi there 👋
+<img align="right" width="300" height="250" src="./automate.gif">
 
-Sorry, still have no time to automate autogenerating this page with GitHub Actions, NodeJS, Docker and AWS 😉.
-But you can see my profile on [LinkedIn](https://www.linkedin.com/in/igor-kovtun-5684b49a/) and read me on [Medium](https://medium.com/@kovtun.ihor).
+### Hi all 👋
+
+### Sorry, still have no time to automate autogenerating this page with GitHub Actions, NodeJS, Docker and AWS 😉. But you can see my profile on [LinkedIn](https://www.linkedin.com/in/igor-kovtun-5684b49a/) and read me on [Medium](https://medium.com/@kovtun.ihor).
 
 <!--
 **Ingewar/Ingewar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
