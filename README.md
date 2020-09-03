@@ -1,4 +1,4 @@
-<img align="right" width="300" height="250" src="./automate.gif">
+<img align="right" width="300" height="250" src="./automate.gif" alt="here should be a gif">
 
 ### Hi all 👋
 
